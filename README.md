@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @MohammedAbdBarakat
-- 👀 I’m interested in Software engineering and web developmnt and AI
-- 🌱 I’m currently studieng Information ennginneering at University of Kalamoon and MERN stack (self taught)
--  💞️ I’m looking to collaborate
-- 📫 How to reach me: Email:mohammed.barakat.mywork@gmail.com or insta:mohammed_.barakat
+Hi, I’m Mohammed Barakat! I’m passionate about web development and specialize in the MERN stack. 
+As an information technology engineering student, I’m also diving into the fascinating world of AI and deep learning. 
+When I’m not coding, you’ll find me exploring beautiful color palettes and creating delightful UI/UX designs.
 
-<!---
-MohammedAbdBarakat/MohammedAbdBarakat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+- 📫 How to reach me: Email:mohammed.barakat.mywork@gmail.com or insta:mohammed_.barakat
