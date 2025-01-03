@@ -3,4 +3,4 @@ As an information technology engineering student, I’m also diving into the fas
 When I’m not coding, you’ll find me exploring beautiful color palettes and creating delightful UI/UX designs.
 
 
-- 📫 How to reach me: Email:mohammed.barakat.mywork@gmail.com or insta:mohammed_.barakat
+- 📫 How to reach me: Email: mohammed.barakat.mywork@gmail.com or insta: mohammed_.barakat
