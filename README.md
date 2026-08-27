@@ -2,7 +2,7 @@
 
 **AI & Automation Engineer** — multi-agent systems, and the production infrastructure that keeps them running.
 
-I work on the boundary between LLM systems and reliability engineering. Getting an agent to produce output once is easy. Making it survive a week in production — quota limits, disconnected clients, background workers losing tenant context, models inventing data — is the actual work.
+I build multi-agent AI systems and the backends they run on — Python services, async workers, and the AWS infrastructure underneath. I work across the full stack, from architecture through deployment.
 
 Currently building at [Beno](https://beno.com), remote from Syria with a Dubai-based team.
 
