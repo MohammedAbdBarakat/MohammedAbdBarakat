@@ -20,4 +20,4 @@ Currently building at [Beno](https://beno.com), remote from Syria with a Dubai-b
 
 ### Elsewhere
 
-[LinkedIn](#) · mohammed.barakat.mywork@gmail.com
+[LinkedIn](#) · [CV](https://docs.google.com/document/d/1m3s-kOX3gzojMrcKvu2qGs1CGMfwk3xok34vKkHxU04/edit?usp=sharing) · mohammed.barakat.mywork@gmail.com 
